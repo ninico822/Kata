@@ -1,0 +1,7 @@
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30\bin\Debug\kata_30.exe.config
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30\bin\Debug\kata_30.exe
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30\bin\Debug\kata_30.pdb
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30\obj\Debug\kata_30.csprojResolveAssemblyReference.cache
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30\obj\Debug\kata_30.csproj.CoreCompileInputs.cache
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30\obj\Debug\kata_30.exe
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30\obj\Debug\kata_30.pdb

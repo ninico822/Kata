@@ -1,0 +1,16 @@
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\kata_30.Tests.dll
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\kata_30.Tests.pdb
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\kata_30.exe
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\kata_30.pdb
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\kata_30.exe.config
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\obj\Debug\kata_30.Tests.csprojResolveAssemblyReference.cache
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\obj\Debug\kata_30.Tests.csproj.CoreCompileInputs.cache
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\obj\Debug\kata_30.Tests.dll
+C:\Users\alice.chen56\Documents\TWTG_KATA\kata_30\kata_30.Tests\obj\Debug\kata_30.Tests.pdb
