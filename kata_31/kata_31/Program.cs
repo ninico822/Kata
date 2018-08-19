@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace kata_31
 {
@@ -23,7 +21,6 @@ namespace kata_31
 
         private static List<int> GetEncodeResult(List<int> arr,List<int> num)
         {
-            //19,3,15,21,20
             List<int> resultArr = new List<int>();
             int index = 0;
 
