@@ -11,7 +11,7 @@ namespace kata_34
             var times = 0;
             while (n/10 > 0)
             {
-                n = n.ToString().ToCharArray().ToList().Select(x=> (int)Char.GetNumericValue(x)).Aggregate((total, next) => total * next);
+                n = n.ToString().ToCharArray().Select(x=> (int)Char.GetNumericValue(x)).Aggregate((total, next) => total * next);
                 times++;
             }
             return times;
