@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keta_37", "keta_37\keta_37.csproj", "{8E90C614-0385-439D-8BA6-62283CB30E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keta_37Tests", "keta_37Tests\keta_37Tests.csproj", "{21B46A5F-DD1B-4A8C-9CF0-16F43286FEF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E90C614-0385-439D-8BA6-62283CB30E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E90C614-0385-439D-8BA6-62283CB30E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E90C614-0385-439D-8BA6-62283CB30E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E90C614-0385-439D-8BA6-62283CB30E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B46A5F-DD1B-4A8C-9CF0-16F43286FEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B46A5F-DD1B-4A8C-9CF0-16F43286FEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B46A5F-DD1B-4A8C-9CF0-16F43286FEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B46A5F-DD1B-4A8C-9CF0-16F43286FEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {975CA553-522B-468C-AECA-1D2D867DC3D7}
+	EndGlobalSection
+EndGlobal
